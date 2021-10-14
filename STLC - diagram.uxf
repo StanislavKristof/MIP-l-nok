@@ -5,9 +5,9 @@
     <id>UMLClass</id>
     <coordinates>
       <x>140</x>
-      <y>260</y>
-      <w>310</w>
-      <h>80</h>
+      <y>220</y>
+      <w>240</w>
+      <h>70</h>
     </coordinates>
     <panel_attributes>Test Design</panel_attributes>
     <additional_attributes/>
@@ -15,8 +15,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>280</x>
-      <y>90</y>
+      <x>250</x>
+      <y>70</y>
       <w>30</w>
       <h>70</h>
     </coordinates>
@@ -28,8 +28,8 @@
     <coordinates>
       <x>140</x>
       <y>20</y>
-      <w>310</w>
-      <h>80</h>
+      <w>230</w>
+      <h>60</h>
     </coordinates>
     <panel_attributes>Requirement Analysis</panel_attributes>
     <additional_attributes/>
@@ -37,8 +37,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>280</x>
-      <y>210</y>
+      <x>250</x>
+      <y>170</y>
       <w>30</w>
       <h>70</h>
     </coordinates>
@@ -49,9 +49,9 @@
     <id>UMLClass</id>
     <coordinates>
       <x>140</x>
-      <y>140</y>
-      <w>310</w>
-      <h>80</h>
+      <y>120</y>
+      <w>240</w>
+      <h>60</h>
     </coordinates>
     <panel_attributes>Test Planning</panel_attributes>
     <additional_attributes/>
@@ -60,9 +60,9 @@
     <id>UMLClass</id>
     <coordinates>
       <x>140</x>
-      <y>500</y>
-      <w>310</w>
-      <h>80</h>
+      <y>430</y>
+      <w>240</w>
+      <h>60</h>
     </coordinates>
     <panel_attributes>Test Execution</panel_attributes>
     <additional_attributes/>
@@ -71,9 +71,9 @@
     <id>UMLClass</id>
     <coordinates>
       <x>140</x>
-      <y>380</y>
-      <w>310</w>
-      <h>80</h>
+      <y>330</y>
+      <w>240</w>
+      <h>60</h>
     </coordinates>
     <panel_attributes>Test Implementation</panel_attributes>
     <additional_attributes/>
@@ -82,9 +82,9 @@
     <id>UMLClass</id>
     <coordinates>
       <x>140</x>
-      <y>610</y>
-      <w>310</w>
-      <h>80</h>
+      <y>530</y>
+      <w>240</w>
+      <h>60</h>
     </coordinates>
     <panel_attributes>Test Closure</panel_attributes>
     <additional_attributes/>
@@ -92,8 +92,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>280</x>
-      <y>330</y>
+      <x>250</x>
+      <y>380</y>
       <w>30</w>
       <h>70</h>
     </coordinates>
@@ -103,8 +103,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>280</x>
-      <y>450</y>
+      <x>250</x>
+      <y>480</y>
       <w>30</w>
       <h>70</h>
     </coordinates>
@@ -114,12 +114,12 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>280</x>
-      <y>570</y>
+      <x>250</x>
+      <y>280</y>
       <w>30</w>
-      <h>60</h>
+      <h>70</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-</panel_attributes>
-    <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
+    <additional_attributes>10.0;50.0;10.0;10.0</additional_attributes>
   </element>
 </diagram>
